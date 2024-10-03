@@ -52,7 +52,7 @@
 
 </p>
 
-<div style="display: flex; align-items: center;">
+<div  align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revanth-rampal&show_icons=true&locale=en&layout=compact" alt="revanth-rampal" width="400" height="200"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=revanth-rampal&show_icons=true&locale=en" alt="revanth-rampal" width="400" height="200" />
 </div>
