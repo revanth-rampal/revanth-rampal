@@ -19,9 +19,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/revanthrampal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revanthrampal" height="30" width="40" /></a>
-<a href="https://kaggle.com/revanthrampal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="revanthrampal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/revanth_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="revanth_dev" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/revanthrampal"  target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" alt="revanthrampal" height="30" width="40" />
+  </a>
+ &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=revanthdrampal@gmail.com"  target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Dark.svg" alt="Gmail" height="30" width="40" />
+  </a>
+&nbsp;&nbsp;
+  <a href="https://linktr.ee/revanthrampal"  target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://avatars.githubusercontent.com/u/46659100?s=200&v=4" alt="revanthrampal" height="30" width="35"  style ="border-radius:19%;"/>
+  </a>
+ 
+</p>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,11 +62,20 @@
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge">
 
 
-</p>
 
-<div  align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revanth-rampal&show_icons=true&locale=en&layout=compact" alt="revanth-rampal" width="400" height="200"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=revanth-rampal&show_icons=true&locale=en" alt="revanth-rampal" width="400" height="200" />
+## 📈 My GitHub Stats
+
+<br>
+<table  align-items: center;" table border="0">
+<tr><td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revanth-rampal&show_icons=true&locale=en&layout=compact" alt="revanth-rampal"/>&nbsp;</td>
+ <td> <img src="https://github-readme-stats.vercel.app/api?username=revanth-rampal&show_icons=true&locale=en" alt="revanth-rampal" width="400" height="200" /></td> <tr>
 </div>
+</table>
+<br>
 
-</p>
+<h2 align="center"> Visitor Count</h3>
+ <a align="center" href="https://profile-counter.glitch.me/{revanth-rampal}/count.svg">
+   
+   ![VisitorCount](https://profile-counter.glitch.me/{revanth-rampal}/count.svg)  
+
