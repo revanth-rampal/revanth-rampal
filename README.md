@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revanth Rampal</h1>
 
-<img align="right" alt="Coding" width="350" src="https://martinvalda.com/img/about.gif">
-
 <h3 align="left">About Me:</h3>
 
  🤖 Enthusiastic about **Machine Learning and AI**, driven by a passion for innovation
@@ -15,7 +13,7 @@
 
 - 🔭 Aiming to revolutionize healthcare through data science
 
-- 📫 Reach me at : **revanthrampal@gmail.com**
+- 📫 Reach me at : **revanthdrampal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
